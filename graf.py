@@ -1,6 +1,8 @@
+#bagian Zaki
 
+#bagian Yosi
 
-
+#bagian Vikas
 r = [
     'Rute Tercepat : ', jumlah_rute(min),
     '',
