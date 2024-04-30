@@ -8,10 +8,8 @@ r = [
     '',
     'Rute Terlambat: ', jumlah_rute(max),
     '',
-    'Daftar Rute Yang Dapat Dilewati: '
-]
+    'Daftar Rute Yang Dapat Dilewati: ']
 
-#Setelah itu kita akan menampilkan nilai dari varible x
 for x in r:
     print(x)
 for x in range(0, len(pencarian)):
